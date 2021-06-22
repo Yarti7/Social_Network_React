@@ -1,0 +1,19 @@
+
+.formControl.error input,
+.formControl.error textarea {
+    border: 2px red solid;
+}
+
+.formControl.error span {
+    color: black;
+}
+
+.formSummaryError {
+    padding: 5px;
+    color: #670000;
+    border: 2px red solid;
+}
+
+.imgcaptcha{
+   width: 120px !important;
+}

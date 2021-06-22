@@ -1,0 +1,8 @@
+.selectedPage {
+    font-weight: bold;
+    color: blue;
+}
+
+.paginator {
+    padding: 5px;
+}
